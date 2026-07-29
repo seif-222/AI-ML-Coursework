@@ -1,0 +1,6 @@
+Fast_AI/Part_2/models/superres-cross-closs-pclass.pkl
+Fast_AI/Part_2/models/superres-closs-pclass.pkl
+Fast_AI/Part_2/models/UnderTrained_Latent_DIfussion_bedrooms.pkl
+Fast_AI/Part_2/models/supperres-cross-closs-pclass-GPU_BATCH.pkl
+Fast_AI/Part_2/models/tiny_imagenet_deeper_Aug.pkl
+**/wandb/
